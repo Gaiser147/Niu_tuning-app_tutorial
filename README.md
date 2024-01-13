@@ -1,2 +1,6 @@
 # Niu_tuning-app_tutorial
-hi
+
+
+Die Tuning app ist im Release
+Dowloaded die app und installiert sie
+
