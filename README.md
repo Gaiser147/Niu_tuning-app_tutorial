@@ -14,7 +14,7 @@ https://youtu.be/alblypvLAAQ
 
 # Json Links
 
-  Kqi2 PRO:
+  ##Kqi2 PRO:
   DE:
   https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI2/Pro/DE/update.json
 
@@ -24,7 +24,7 @@ https://youtu.be/alblypvLAAQ
   US:
   https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI2/Pro/US/update.json
 
-  Kqi3 sport
+  ##Kqi3 sport
   DE:
   https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Sport/DE/update.json
 
@@ -34,7 +34,7 @@ https://youtu.be/alblypvLAAQ
   US:
   https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Sport/US/update.json
 
-  Kqi3 pro
+  ##Kqi3 pro
   DE:
   https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Pro/DE/update.json
 
@@ -44,7 +44,7 @@ https://youtu.be/alblypvLAAQ
   US:
   https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Pro/US/update.json
 
-  Kqi3 max
+  ##Kqi3 max
   DE:
   https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI3/Max/DE/update.json
 
