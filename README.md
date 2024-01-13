@@ -14,7 +14,7 @@ https://youtu.be/alblypvLAAQ
 
 ## Json Links
 
-  # Kqi2 PRO:
+  ### Kqi2 PRO:
   DE:
   https://raw.githubusercontent.com/scooterhacking/niu_scooters/main/KQI2/Pro/DE/update.json
 
