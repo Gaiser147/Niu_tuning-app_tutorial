@@ -1,6 +1,6 @@
 # Niu Tuning
 ### Anleitung:
-  1. Dowloaded die app im Release.
+  1. Dowloaded die App im Release.
   2. Installiert die App.
   3. Öffnet die App und meldet euch an.
   4. Sucht euch den passenden Link für euren Scooter heraus und kopiert ihn (Unten sind die Links).
