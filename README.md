@@ -12,9 +12,6 @@ Anleitung:
 Video Tutorial: 
 https://youtu.be/alblypvLAAQ
 
-
-Hier sind die Links (4.):
-
 # Json Links
 
   Kqi2 PRO:
