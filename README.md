@@ -1,4 +1,4 @@
-# Niu_tuning-app_tutorial
+# Niu Tuning
 Anleitung:
   1. Dowloaded die app im Release.
   2. Installiert die App.
